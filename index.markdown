@@ -11,7 +11,7 @@ with a few other minor changes.
 
 ## Par Exemple
 
-See an example of this style in action [here.](/sample.html)  
+See an example of this style in action [here.](sample.html)  
 
 ## Get Going.
 
