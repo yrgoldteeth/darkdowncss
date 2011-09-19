@@ -9,6 +9,10 @@ better default styling for your [markdown](http://daringfireball.net/projects/ma
 Darkdown.css is an adaptation of Markdown.css primarily altering the background and text colors,
 with a few other minor changes.
 
+## Par Exemple
+
+See an example of this style in action [here.](/sample.html)  
+
 ## Get Going.
 
 Add the following to the top of your markdown files:
