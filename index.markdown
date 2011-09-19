@@ -1,4 +1,4 @@
-<link href="http://github.com/yrgoldteeth/darkdown.css/raw/master/darkdown.css" rel="stylesheet"></link> 
+<link href="http://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css" rel="stylesheet"></link> 
 
 # Let's make the Web prettier...and less harshly bright.
 
@@ -13,5 +13,5 @@ with a few other minor changes.
 
 Add the following to the top of your markdown files:
 
-    <link href="http://github.com/yrgoldteeth/darkdown.css/raw/master/darkdown.css" rel="stylesheet"></link> 
+    <link href="http://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css" rel="stylesheet"></link> 
 
