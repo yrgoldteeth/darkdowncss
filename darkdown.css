@@ -17,24 +17,24 @@ h1, h2, h3, h4, h5, p {
     padding: 0;
 }
 h1 {
-    font-size: 36px;
+    font-size: 48px;
 }
 h2 {
-    font-size: 28px;
+    font-size: 36px;
     margin: 24px 0 6px;
 }
 h3 {
     border-left:.5em solid #07100D;
-    font-size: 24px;
+    font-size: 28px;
     background-color: #080C10;
     padding: 21px;
     max-width: 476px;
 }
 h4 {
-    font-size: 18px;
+    font-size: 28px;
 }
 h5 {
-    font-size: 16px;
+    font-size: 21px;
 }
 a {
     color: #5087B9;
