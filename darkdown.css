@@ -54,6 +54,7 @@ ul, ol {
     max-width: 476px;
     margin: 0;
     background-color: #080C10;
+    border-left:.5em solid #07100D;
 }
 li {
     line-height: 24px;
