@@ -77,6 +77,9 @@ pre {
     white-space: pre-wrap;
 }
 code {
+    border-left:.5em solid #18120B;
+    background-color: #110A00;
+    padding: 21px;
     font-family: Consolas, Monaco, Andale Mono, monospace;
     line-height: 1.5;
     font-size: 13px;
