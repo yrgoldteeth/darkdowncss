@@ -24,10 +24,11 @@ h2 {
     margin: 24px 0 6px;
 }
 h3 {
+    border-left:.5em solid #07100D;
     font-size: 21px;
     background-color: #080C10;
-    padding: 21px;
-    max-width: 540px;
+    padding: 0 2em;
+    max-width: 476px;
 }
 h4 {
     font-size: 18px;
@@ -79,7 +80,7 @@ aside {
     width: 390px;
 }
 blockquote {
-    border-left:.5em solid #BD8D49;
+    border-left:.5em solid #18120B;
     background-color: #281903;
     padding: 0 2em;
     margin-left:0;
