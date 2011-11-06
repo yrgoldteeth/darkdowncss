@@ -60,12 +60,13 @@ li {
     line-height: 24px;
 }
 li ul, li ul {
-    margin-left: 24px;
+    margin-left: 30;
+    list-style-type: none;
 }
 p, ul, ol {
     font-size: 16px;
     line-height: 24px;
-    max-width: 540px;
+    max-width: 476px;
 }
 pre {
     padding: 0px 24px;
