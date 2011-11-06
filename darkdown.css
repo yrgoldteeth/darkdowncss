@@ -16,20 +16,20 @@ h1, h2, h3, h4, h5, p {
     padding: 0;
 }
 h1 {
-    font-size: 48px;
+    font-size: 36px;
 }
 h2 {
-    font-size: 36px;
+    font-size: 24px;
     margin: 24px 0 6px;
 }
 h3 {
-    font-size: 24px;
-}
-h4 {
     font-size: 21px;
 }
-h5 {
+h4 {
     font-size: 18px;
+}
+h5 {
+    font-size: 16px;
 }
 a {
     color: #61BFC1;
