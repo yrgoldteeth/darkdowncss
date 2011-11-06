@@ -63,6 +63,19 @@ li {
 li ul, li ul {
     margin-left: 30px;
 }
+body #header #footer {
+    display: inline;
+    float: left;
+    margin-right: 10px;
+}
+body #footer li {
+  padding-right: 1em;
+  display: inline;
+}
+.nav li {
+    display: inline;
+    padding-right: 1em;
+}
 p {
   padding-left: 21px;
 }
