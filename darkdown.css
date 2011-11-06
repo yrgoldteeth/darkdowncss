@@ -10,6 +10,7 @@ body{
 h1, h2, h3, h4 {
     font-weight: 400;
     font-family: 'Goudy Bookletter 1911', serif;
+    color: #78B9A0;
 }
 h1, h2, h3, h4, h5, p {
     margin-bottom: 24px;
@@ -32,7 +33,7 @@ h5 {
     font-size: 16px;
 }
 a {
-    color: #61BFC1;
+    color: #5087B9;
     margin: 0;
     padding: 0;
     text-decoration: none;
@@ -42,7 +43,7 @@ a:hover {
     text-decoration: underline;
 }
 a:visited {
-    color: #466B6C;
+    color: #48B98E;
 }
 ul, ol {
     padding: 0;
@@ -75,7 +76,7 @@ aside {
     width: 390px;
 }
 blockquote {
-    border-left:.5em solid #eee;
+    border-left:.5em solid #BD8D49;
     padding: 0 2em;
     margin-left:0;
     max-width: 476px;
@@ -83,7 +84,7 @@ blockquote {
 blockquote  cite {
     font-size:14px;
     line-height:20px;
-    color:#bfbfbf;
+    color:#BDA17A;
 }
 blockquote cite:before {
     content: '\2014 \00A0';
