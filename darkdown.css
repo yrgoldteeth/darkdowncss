@@ -52,7 +52,7 @@ a:visited {
 ul, ol {
     padding: 21px;
     max-width: 476px;
-    margin: 0;
+    margin: 10px;
     background-color: #080C10;
     border-left:.5em solid #07100D;
 }
@@ -61,7 +61,6 @@ li {
 }
 li ul, li ul {
     margin-left: 30;
-    list-style-type: none;
 }
 p, ul, ol {
     font-size: 16px;
