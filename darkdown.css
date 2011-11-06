@@ -83,6 +83,7 @@ code {
     max-width: 476px;
     border-left:.5em solid #18120B;
     background-color: #110A00;
+    margin-left:0;
 }
 aside {
     display: block;
