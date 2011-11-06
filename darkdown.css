@@ -27,8 +27,8 @@ h3 {
     border-left:.5em solid #07100D;
     font-size: 21px;
     background-color: #080C10;
-    padding: 12px;
-    max-width: 460px;
+    padding: 21px;
+    max-width: 476px;
 }
 h4 {
     font-size: 18px;
@@ -50,7 +50,8 @@ a:visited {
     color: #48B98E;
 }
 ul, ol {
-    padding: 0;
+    padding: 21px;
+    max-width: 476px;
     margin: 0;
 }
 li {
