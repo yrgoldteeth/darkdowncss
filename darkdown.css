@@ -1,7 +1,7 @@
 body{
     margin: 0 auto;
     background: #030F1A;
-    font-family: 'Goudy Bookletter 1911', serif;
+    font-family: 'Droid Serif', serif;
     color: #7C9CB9;
     line-height: 1;
     max-width: 960px;
@@ -9,6 +9,7 @@ body{
 }
 h1, h2, h3, h4 {
     font-weight: 400;
+    font-family: 'Goudy Bookletter 1911', serif;
     color: #78B9A0;
 }
 h1, h2, h3, h4, h5, p {
