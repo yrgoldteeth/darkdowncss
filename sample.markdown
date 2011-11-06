@@ -68,21 +68,20 @@ Here's a sample form:
   <input type="text" size="30" />
   <br>
   <label>
-      <input type="checkbox" />
-      <span>This is text accompanying the checkbox</span>
+  <input type="checkbox" />
+  <span>This is text accompanying the checkbox</span>
   </label><br>
   <label>
-      <input type="checkbox" />
-      <span>More text with a different checkbox</span>
+  <input type="checkbox" />
+  <span>More text with a different checkbox</span>
   </label>
   <br><br>
   <select>
-    <option>Select an option</option>
-    <option>One</option>
-    <option>Two</option>
+  <option>Select an option</option>
+  <option>One</option>
+  <option>Two</option>
   </select>
   <br>
-
   <button type="submit">Sample Button</button>
 </form>
 
