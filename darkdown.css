@@ -63,6 +63,9 @@ li {
 li ul, li ul {
     margin-left: 30px;
 }
+p {
+  padding-left: 21px;
+}
 p, ul, ol {
     font-size: 16px;
     line-height: 24px;
