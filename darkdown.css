@@ -1,7 +1,7 @@
 body{
     margin: 0 auto;
     background: #000;
-    font-family: Georgia, Palatino, serif;
+    font-family: 'Droid Sans', sans-serif;
     color: #EEE;
     line-height: 1;
     max-width: 960px;
@@ -9,6 +9,7 @@ body{
 }
 h1, h2, h3, h4 {
     font-weight: 400;
+    font-family: 'Goudy Bookletter 1911', serif;
 }
 h1, h2, h3, h4, h5, p {
     margin-bottom: 24px;
